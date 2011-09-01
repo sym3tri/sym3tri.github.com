@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://sym3tri.github.com/blog/2011/09/01/now-on-octopress/</loc>
+        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sym3tri.github.com/about/</loc>
+        <lastmod>2011-09-01T22:53:04+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sym3tri.github.com/blog/archives/</loc>
+        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sym3tri.github.com/</loc>
+        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+    </url>
+</urlset>
