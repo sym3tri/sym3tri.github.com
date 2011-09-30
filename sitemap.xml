@@ -2,34 +2,38 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://sym3tri.github.com/blog/2011/09/01/now-on-octopress/</loc>
-        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/about/</loc>
-        <lastmod>2011-09-04T14:29:55+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/blog/archives/</loc>
-        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sym3tri.github.com/contact/</loc>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/</loc>
-        <lastmod>2011-09-01T22:41:17+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/micro-blog/</loc>
-        <lastmod>2011-09-05T00:52:32+09:00</lastmod>
+        <lastmod>2011-09-30T20:27:05+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/photos/</loc>
-        <lastmod>2011-09-01T23:16:35+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/projects/</loc>
-        <lastmod>2011-09-05T00:53:26+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
     <url>
         <loc>http://sym3tri.github.com/resume/</loc>
-        <lastmod>2011-09-03T21:59:40+09:00</lastmod>
+        <lastmod>2011-09-05T00:57:54+09:00</lastmod>
     </url>
 </urlset>
