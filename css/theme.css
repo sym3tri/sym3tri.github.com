@@ -66,11 +66,10 @@ a.rss:hover {
 .more-posts {
   text-align: right;
 }
-/* optional background image
 .home .hero-unit {
-  background: url() no-repeat;
+  background: url(http://farm5.staticflickr.com/4009/4585744553_94b66525ca_o.jpg) no-repeat;
+  color: #fff;
 }
-*/
 
 /* PAGES & POSTS */
 .page,
