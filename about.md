@@ -5,17 +5,23 @@ date: 2011-09-01 21:59
 ---
 
 I'm a Knowledge Junkie, Web Hacker, [Wu Disciple](http://en.wikipedia.org/wiki/Wu-Tang_Clan), Mad Scientist, Creator.   
-I lived in Japan for nearly 5 years so my Japanese is pretty decent too.
+I lived in Japan for nearly 5 years so my Japanese is pretty decent too.   
 
-***
+Currently I'm doing front-end development at *Rackspace San Francisco*.
 
-### hobbies + interests ###
+* * *
+
+
+##Hobbies + Interests
 
 Programming, Technology, Science, Electronics, Software, Entrepreneurship, Cheesy Horror Movies,
 Video Editing, Audio Synthesis, Electronic Music Composition, Arduino, Photography, 
 Cycling, Running, Body Building, Scuba Diving, Snowboarding, Travel
 
-### online presence ###
+* * *
+
+
+##Online presence
 
 <a href="http://stackoverflow.com/users/275016/sym3tri"><img src="http://stackoverflow.com/users/flair/275016.png" width="208" height="58" alt="profile for sym3tri at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for sym3tri at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a>
 
