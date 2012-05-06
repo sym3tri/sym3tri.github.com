@@ -16,8 +16,11 @@ and running quickly I realized that others might like a light-weight no-fuss way
 So I moved all the general stuff into a repo and now I have another open source project:
 [Jekyll-Jumpstart](https://github.com/sym3tri/jekyll-jumpstart).   
 
-No dependencies are required.
-If you know git and can use a text editor you can get a pretty nice looking Jekyll blog up and
-running in about 5 minutes. After that you can configure everything to your heart's content.   
+- Using Jekyll-Jumpstart is super easy.
+- There are no dependencies are required.
+- If you can use git and a text editor you're good to go.
+- You'll have your blog up and running in about 5 minutes.
+- After that you can configure everything to your heart's content.   
 
+This very site is based on Jekyll-Jumpstart, if you like the way it looks why not give it a try?
 I'd love to hear any feedback if you end up using it.
