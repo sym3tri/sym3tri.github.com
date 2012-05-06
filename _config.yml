@@ -1,4 +1,4 @@
-baseurl:        http://www.edrooth.com
+#baseurl:        http://www.edrooth.com
 plugins:        _plugins
 markdown:       rdiscount
 pygments:       true
