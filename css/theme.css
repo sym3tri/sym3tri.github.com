@@ -71,6 +71,11 @@ a.rss:hover {
   color: #fff;
 }
 
+/* CONTACT PAGE */
+body.contact .main {
+  height: 800px;
+}
+
 /* PAGES & POSTS */
 .page,
 .post{
