@@ -1,24 +1,25 @@
 <!--sidebar-->
 <aside class="author-about">
-  <h4>About {{ site.author }}</h4>
   {% if site.gravatarhash %}
   <img src="http://www.gravatar.com/avatar/{{ site.gravatarhash }}.jpg"/>
   {% endif %}
+  <h4>{{ site.author }}</h4>
   <div class="author-about-blub">
-    This is a blurb about me. This is a blurb about me. This is a blurb about me.
+    I'm a Web Devloper in San Francisco.
   </div>
 </aside>
-<aside class="social">
-  <ul class="nav nav-list">
-    <li class="nav-header">Social</li>
-    <li><a href="#">Stack Overflow</a></li>
-    <li><a href="#">Github</a></li>
-    <li><a href="#">Twitter</a></li>
-  </ul>
-</aside>
+<hr>
+
+<!--<aside class="social">-->
+  <!--<ul class="nav nav-list">-->
+    <!--<li class="nav-header">Social</li>-->
+  <!--</ul>-->
+<!--</aside>-->
 <aside>
   <h4><a href="{{ site.baseurl }}/blog/">Blog Archives</a></h4>
 </aside>
+<hr>
+
 {% if site.search_enabled %}
 <aside>
   <form class="form-search" method="GET" action="http://google.com/search">
@@ -26,7 +27,9 @@
     <input type="text" class="input-medium search-query" name="q" results="0" placeholder="Search...">
   </form>
 </aside>
+<hr>
 {% endif %}
+
 <aside class="tweets">
   {% include tweets.html %}
 </aside>

@@ -1,13 +1,13 @@
-#baseurl:        http://www.your-site.com
+#baseurl:        http://www.edrooth.com
 plugins:        _plugins
 markdown:       rdiscount
 pygments:       true
 permalink:      /blog/:year/:month/:day/:title
-title:          Your Awesome Blog
-description:    This site is so rad becuase it uses Jekyll-Bootstrap!
-author:         Your Name
+title:          Ed Rooth
+description:    My blog and stuff
+author:         Ed Rooth
 search_enabled: true
-#analyticsid:    UA-GGGGG-G
-#disqusname:
-#twittername:
-#gravatarhash:
+analyticsid:    UA-6374043-2
+disqusname:     edroothcom
+twittername:    sym3tri
+gravatarhash:   ef5b828e9c89d56e48ed8346b9bf7d1f

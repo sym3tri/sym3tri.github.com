@@ -75,7 +75,7 @@ a.rss:hover {
 /* PAGES & POSTS */
 .page,
 .post{
-  margin-right: 25%;
+  max-width: 75%;
 }
 @media (max-width: 767px) {
   .page,
