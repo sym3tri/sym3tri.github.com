@@ -1,0 +1,9 @@
+<!--nav-->
+  <ul class="nav">
+    {% for page in site.pages %}
+    {% if page.layout == 'page' %}
+    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+<!--/nav-->

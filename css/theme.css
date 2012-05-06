@@ -1,0 +1,100 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: inherit;
+  }
+}
+a.rss,
+a.rss:hover {
+  text-decoration: none;
+}
+.expanding {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+/* SIDEBAR */
+.sidebar {
+  border-left: 1px dotted #cecece;
+  padding-left: 1em;
+}
+.sidebar aside {
+  margin-bottom: 1.5em;
+}
+.sidebar .author-about-blub {
+  margin: 1em 0;
+  font-style: italic;
+}
+
+/* MAIN */
+.main {
+}
+
+/* INDEX PAGE */
+.post-list {
+  paddig: 0;
+  margin: 0;
+}
+.post-item {
+  position: relative;
+  padding: 1em 1.5em;
+  overflow: hidden;
+  height: 12em;
+}
+.post-item:last-child {
+  margin-right: 0;
+}
+.post-item em {
+  display: block;
+  margin: 0 0 0.5em 1em;
+}
+.post-item .excerpt {
+}
+.post-item a.expanding {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.post-item a.expanding:hover {
+  background-color: transparent;
+}
+.more-posts {
+  text-align: right;
+}
+/* optional background image
+.home .hero-unit {
+  background: url() no-repeat;
+}
+*/
+
+/* PAGES & POSTS */
+.page,
+.post{
+  margin-right: 25%;
+}
+@media (max-width: 767px) {
+  .page,
+  .post{
+    margin-right: 0;
+  }
+}
+.page header,
+.post header {
+  margin-bottom: 1em;
+}
+article footer {
+  margin: 2em 0;
+}
+a[href="#top"] {
+  display: inline-block;
+  clear: both;
+  margin: 3em 0;
+}
+a[href="#top"]:after {
+  content: ' \21E7';
+}

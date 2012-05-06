@@ -1,0 +1,24 @@
+---
+layout: default
+title: Blog Archive
+---
+
+{% assign prevYear = 0 %}
+
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+  {% if prevYear != year %}
+    {% if prevYear != 0 %}
+    </ul>
+    {% endif%}
+    <h2>{{ year }}</h2>
+    <ul>
+  {% endif %}
+      <li class="">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <em>{{ post.date | date: "%b %d" }}</em>
+      </li>
+
+  {% assign prevYear = year %}
+{% endfor %}
