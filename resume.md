@@ -4,9 +4,7 @@ title: "Resume"
 date: 2011-09-01 23:17
 ---
 
-[My Resume](http://edrooth.emurse.com)
-
-[StackOverflow Careers](http://careers.stackoverflow.com/edrooth)
+[My Resume](http://careers.stackoverflow.com/edrooth) *on StackOverflow Careers*
 
 [LinkedIn Profile](http://jp.linkedin.com/in/edrooth)
 
