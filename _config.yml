@@ -4,7 +4,7 @@ markdown:       rdiscount
 pygments:       true
 permalink:      /blog/:year/:month/:day/:title
 title:          Ed Rooth
-description:    My blog and stuff
+description:    Web Development etc.
 author:         Ed Rooth
 search_enabled: true
 analyticsid:    UA-6374043-2

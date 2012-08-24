@@ -41,5 +41,5 @@ Cycling, Running, Body Building, Scuba Diving, Snowboarding, Travel
 * [MixCloud](http://www.mixcloud.com/sym3tri)
 * [SoundCloud](http://soundcloud.com/sym3tri)
 * [Discogs](http://www.discogs.com/user/sym3tri)
+* [Fitocracy](https://www.fitocracy.com/profile/sym3tri)
 * [Last FM](http://www.last.fm/user/sym3tri)
-* [Real Web Developers - Amazon Listmania List](http://www.amazon.com/gp/richpub/listmania/fullview/RHN3B8PMY6V6I/)

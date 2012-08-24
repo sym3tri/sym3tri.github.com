@@ -1,5 +1,5 @@
 body {
-  padding-top: 60px;
+  padding-top: 64px;
   padding-bottom: 40px;
 }
 @media (max-width: 979px) {
@@ -7,10 +7,19 @@ body {
     padding-top: inherit;
   }
 }
+
+.navbar {
+  border-top: 4px solid #FBB450;
+}
+
+a.rss {
+  margin: 10px;
+}
 a.rss,
 a.rss:hover {
   text-decoration: none;
 }
+
 .expanding {
   height: 100%;
   position: absolute;
