@@ -4,76 +4,279 @@ title: "Resume"
 date: 2011-09-01 23:17
 ---
 
-[My Resume](http://careers.stackoverflow.com/edrooth) *on StackOverflow Careers*
 
-[LinkedIn Profile](http://jp.linkedin.com/in/edrooth)
 
-[Github Resume](http://resume.github.com/?sym3tri)
+
+## About
+
+
+
+
+- JavaScript expert focusing on large-scale web apps and data visualization
+- Also 10+ years of full-stack web development experience
+- Passionate about: programming, open source, new technology, architecture,
+  APIs, NoSQL, UX, optimization, and scalability
+- Experience solving multi-lingual software challenges
+- Business level Japanese ability
+- Strong record of success
+
+**Looking for a position where:**
+
+- It's not *just a job*
+- There is an idea-embracing environment
+- The open source philosophy is supported
+- I can continue to build amazing innovative web apps
+- I can work with smart talented people
+- People are passionate and take pride in their code
+
+
 
 
 ***
 
-## Testimonials ##
 
-January 7, 2009
 
-> &ldquo;As part of the eBusiness Team at NCC, Ed's deep understanding of application development, quick ability to learn and wide ranges of experiences were all traits that made him a significant leader in building the eBusiness system which has given NCC a competitive edge in the advertising marketplace.
-> His ability to understand underlying business needs and processes and translate them into sophisticated, but easy-to-use web-based applications dramatically increased the efficiency of our nation-wide workforce and significantly improved our customers' purchase and management of our services. His project management skills and interactions with various internal and external teams allowed him to deliver superior systems in very short time frames.
-> Initially, Ed develop web-based tools using J2EE. He then successfully helped lead the effort to transition our architecture over to Microsoft's .NET framework, increasing the impact of our eBusiness tools and significantly reducing the cost of development and maintenance of the systems.&rdquo;
 
-*-Nick Garramone*  
-VP, eBusiness Operations, National Cable Communications  
-New York, NY  
-_Direct Manager at NCC_
+## Work Experience
+
+
+
+
+#### Front-End Engineer
+*Dec 2011 - Present*  
+*Rackspace Hosting Inc (San Francisco, CA)*  
+
+As a Cloud Business Unit engineer helped develop a large-scale JavaScript
+control panel application for one of the biggest players in cloud hosting.  
+[www.rackspace.com](http://www.rackspace.com)
+
+**Technologies**:
+JavaScript d3.js HTML5 SVG Canvas Less CSS REST-APIs Google-Closure Node.js
+Python Git Github Linux
+
+- Major contributor to the new
+  [Rackspace Cloud Control Panel](https://mycloud.rackspace.com)
+- Created graphs, charts, and data visualizationis with cloud monitoring data
+
+
+
 
 ***
 
-November 7, 2008
 
-> &ldquo;Mr. Rooth is one of the most creative colleagues I have had the pleasure of working with. His work ethic combined with his broad technical knowledge made him a great asset to the company.
-> We worked closely together for about 5 years. In that time, due in large part to Mr. Rooth, NCC was able to move from a company burdened by its own antiquated business processes, to a streamlined 21st century organization utilizing the latest technologies. Sales have more than doubled since he joined the company, now forecasted to reach over $1 billion in 2008.&rdquo;
 
-*-Eric Gatz*  
-Web Server Admin, NCC  
-New York, NY   
-_Development Team Colleague at NCC_
+
+#### Senior Web Application Developer
+*Mar 2010 - Oct 2011*  
+*Wall Street Associates (Tokyo, Japan)*  
+
+Senior member of a 4 person agile development team building and maintaining a
+multi-lingual next-generation recruitment CRM SaaS product
+
+**Technologies**:
+JavaScript CSS HTML5 C# .NET WCF Sql-Server MongoDB Solr ExtJS Hudson/Jenkins
+Git Github
+
+- Was active in every phase of iterative agile development including:
+  scrum, requirement analysis, design, coding, peer code-review, testing,
+  refactoring
+- Improved code coverage by 20% by using Test Driven Development
+- Setup and maintained Hudson/Jenkins of Continuous Integration server
+- Led project to overhaul large portion of application with a 5x faster
+  more scalable database implementation. Migrated 8+ million
+  rows of data, drastically improved usability, resulted in unprecedented
+  perforamnce and praise from users
+- Contributed to open source MongoDB C# driver
+- Optimized application performance decreasing response times up to 80% by:
+  discovering bottlenecks in session store, applying database indexes,
+  converting images into Data URIs
+- Improved complex search algorithms and optimized databases - resulted in 2x
+  faster respons times and improved accuracy
+- Administration of various servers (database, web, cache, Solr)
+- Provided guidance and mentorship to junior developer
+- Introduced and led bi-weekly architecture meeting - resulted in constructive
+  discussions and numerous product enhancements
+- Contributed to documentation of code/development guidelines
+
+
+
 
 ***
 
-January 13, 2009
 
-> &ldquo;Before I hired Ed, I built my first website not understanding most terminology in an HTML guidebook. Ed gave productive insight to updating the site and made impressive changes which surpass the quality of my competitors sites! He has also provided invaluable tutorials empowering me to do my own edits and understand the world of programming better. Since all work is in English and Japanese it has been very important that he is capable of working in both languages.
-> Ed completes all work by communicating with me via email overseas, without ever meeting or speaking on the phone. Quite often I find Ed has a better idea than I about the next step the site needs to take. It's great to know there are still people that have such work ethic that you don't even need to be in the same country to get the job done!&rdquo;
 
-*-Sumie Takashima*   
-Founder and Director, NYCNDA, LLC  
-Offering early childhood education in Japanese for those in the NYC community  
-New York, NY  
-_Freelance Website Client_
+
+#### Web Developer / Business Analyst (contract)
+*Apr 2009 - Mar 2010*  
+*Nikko Asset Management  (Tokyo, Japan)*  
+
+Lead Developer and Project Manager of public websites for the third largest
+asset management firm in Japan: [www.nikkoam.com](http://www.nikkoam.com)
+and [en.nikkoam.com](http://en.nikkoam.com)
+
+**Technologies**:
+JavaScript Mootools HTML CSS Apache MySQL Linux PHP Joomla .NET C#
+SQL-Server Apache-Bench JMeter
+
+- Managed project to migrate 3,000+ static pages into CMS - Managed another web
+  developer and instructed 6 member marketing team and vendors on content
+  migration
+- Led two person team to customize Joomla CMS by developing new features and
+  custom themes
+- Developed custom features such as: browser drag-and-drop file upload,
+  fund NAV price reporting, staging-to-production content deployment tool,
+  web services for importing financial data, automated backups
+- Performance benchmarked and optimized sites for high-traffic
+  (40k-50k page views/day) - Resulted in 50% avg faster response times
+- Developed JSON REST APIs and client reference implementations for
+  promotional web site investing game - Resulted in ease of extensibility by
+  3rd party developers
+- Communicated primarily in Japanese as most stakeholders were native Japanese
+
+
+
 
 ***
 
-January 14, 2009
 
-> "Ed is truly a one-of-a-kind talent and an inspiration to those around him. Ed and I collaborated on many projects during our educational experience. However, no joint effort was more indicative of Ed's capabilities than our "Senior Thesis", when Ed took control of the project and lead us to the best showing of our entire class!
-> Since graduating Ed has continued to express his creative instincts by first taking a bite at the Big Apple and then heading overseas to Japan to further his cultural knowledge."&nbsp;
 
-*-Bob Bollas*  
-Software Engineer, SentriLock, LLC  
-Cincinnati, OH  
-_Computer Science classmate and final-project partner at The University of Cincinnati_
+
+#### Freelance Consultant
+*Jun 2007 - Jan 2009*  
+*(Tokyo, Japan)*  
+
+Web development and multi-media consulting while studying Japanese full-time  
+
+**Technologies**:
+JavaScript PHP Final-Cut-Pro After-Effects Photoshop Illustrator jQuery
+Wordpress MySQL
+
+- Edited video and did post-produciton for popular video podcasts
+- Consulted with small businesses regarding web strategy and online presence
+- Custom themeing of various Wordpress websites
+- Designed user experiences for websites
+- Built custom ordering system
+
+
+
 
 ***
 
-October 11, 2008
-
-> "...a massive thanks and big up also goes to Ed Rooth for his [video] editing work. ...Since joining the TTR family last year Ed&rsquo;s put in some amazing work with the video podcasts we&rsquo;ve been releasing this year, so a massive thanks goes out to him and he&rsquo;ll be sorely missed while he&rsquo;s gone."
-
-*-Laurent Fintoni*  
-TurntableRadio.com  
-London, England  
-_Client for Video Editing Projects_
 
 
 
+#### Sr. Software Developer
+*Jul 2006 - Mar 2007*  
+*Mimeo.com (New York, NY)*  
 
+Senior engineer of a 6 person agile development team for the innovator of
+web-based on-demand document document printing and distribution:
+[www.mimeo.com](http://www.mimeo.com)
+
+**Technologies**:
+JavaScript AJAX SQL ASP.NET c# SQL-Server
+
+- Key developer on customer-facing, company profit-center web application
+- Worked closely with system architect to implement new features - i.e. new
+  product options, and AJAX based image viewer
+- Devised algorithms in C# to solve challenging saddle-stitch print layout
+  problems
+- Worked closely with in-house and off-shore QA teams to address defect
+  resolution
+- Collaborated with designers to turn UI concepts into working software
+- Extensive UI coding in an environment with 10,000+ lines of JavaScript,
+  allowing users to customize product options with instant visual feedback
+- Data mining and analysis with SQL to determine customer usage
+  statistics
+
+
+
+
+***
+
+
+
+
+#### Web Developer / Project Manager
+*Jan 2002 - Jul 2006*  
+*National Cable Communications (New York, NY)*
+
+Led 4-person eBusiness development team in building mission-critical B2B web
+applications for a 450+ person, $1 billion revenue, cable advertising company.
+
+**Technologies**:
+Java Struts-MVC C# JavaScript SQL SQL-Server SOA Web-Services IIS XML ASP.Net
+
+- Worked with Microsoft Consulting and led project to migrate legacy application
+  infrastructure to SOA architecture - Resulted in a homogeneous,
+  interconnected, flexible architecture of all internal applications
+- Oversaw development of internal ASP.NET and J2EE web application development
+  (Order Management, Invoicing, CRM)
+- Oversaw outsource development and integrated those modules into core
+  applications
+- Analyzed business processes with upper management to improve efficiency
+  through software solutions. Resulted in countless time savings, removal of
+  human error, and drastically improved invoicing and sales forecasting accuracy
+- Co-authored XML file format which later became cable advertising industry
+  standard for electronic order/invoice communications
+- Administered web servers and application servers
+- Designed relational databases schemas and stored procedures
+- As company representative was member of [American Association of Advertising
+  Agencies](http://www.aaaa.org) committee to define industry standards for
+  electronic communication protocols
+
+
+
+
+***
+
+
+
+
+## Education
+
+
+
+#### BS Computer Science
+*1997 - 2001*  
+*Universiity of Cincinnati*
+
+- Dean's List
+- Honors Scholars Program
+- Graduated with Honors
+- Golden Key International Honour Society
+- 3.3 GPA
+
+
+
+
+***
+
+
+
+
+#### Japanese Language School
+*2007-2009*
+*KAI Japanese School*
+
+- JLPT Level 2 Certification
+- Speech contest special prize recipient
+- 4.0 GPA
+
+
+
+
+***
+
+
+
+
+## Links
+
+[StackOverflow Careers](http://careers.stackoverflow.com/edrooth)
+
+[LinkedIn Profile](http://www.linkedin.com/in/edrooth)
+
+[Github Generated Resume](http://resume.github.com/?sym3tri)
+
+[Me on Github](https://github.com/sym3tri)
