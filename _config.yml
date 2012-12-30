@@ -4,7 +4,7 @@ markdown:       rdiscount
 pygments:       true
 permalink:      /blog/:year/:month/:day/:title
 title:          Ed Rooth
-description:    Web Development etc.
+description:    JavaScript & Web Development
 author:         Ed Rooth
 search_enabled: true
 analyticsid:    UA-6374043-2

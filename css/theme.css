@@ -12,11 +12,11 @@ body {
   border-top: 4px solid #FBB450;
 }
 
-a.rss {
+.rss {
   margin: 10px;
 }
-a.rss,
-a.rss:hover {
+.rss,
+.rss:hover {
   text-decoration: none;
 }
 
@@ -66,10 +66,10 @@ a.rss:hover {
 }
 .post-item .excerpt {
 }
-.post-item a.expanding {
+.post-item .expanding {
   background-color: rgba(255, 255, 255, 0.3);
 }
-.post-item a.expanding:hover {
+.post-item .expanding:hover {
   background-color: transparent;
 }
 .more-posts {

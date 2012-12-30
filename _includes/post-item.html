@@ -1,6 +1,6 @@
 <!--post-item-->
 <div class="post-item well span3">
-  <h3>{{ post.title }}</h3>
+  <h4>{{ post.title }}</h4>
   <em>{{ post.date | date_to_string }}</em>
   <div class="excerpt">{{ post.excerpt | truncate: 120 "..." }}</div>
   <a href="{{ site.baseurl }}{{ post.url }}" class="expanding"></a>
