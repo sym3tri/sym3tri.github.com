@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-  border-top: 4px solid #FBB450;
+  border-top: 4px solid #5017aa;
 }
 
 .rss {
@@ -76,7 +76,7 @@ body {
   text-align: right;
 }
 .home .hero-unit {
-  background: url(http://farm5.staticflickr.com/4009/4585744553_94b66525ca_o.jpg) no-repeat;
+  background: url(/img/bg.gif);
   color: #fff;
 }
 
