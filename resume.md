@@ -276,6 +276,8 @@ Java Struts-MVC C# JavaScript SQL SQL-Server SOA Web-Services IIS XML ASP.Net
 
 [This resume in markdown format](https://github.com/sym3tri/sym3tri.github.com/blob/master/resume.md)
 
+[Testimonials](/testimonials.html)
+
 [StackOverflow Careers](http://careers.stackoverflow.com/edrooth)
 
 [LinkedIn Profile](http://www.linkedin.com/in/edrooth)

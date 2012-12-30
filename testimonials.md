@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: subpage
 title: "Testimonials"
 date: 2011-09-01 23:17
 ---
 
 
-## Testimonials ##
+
 
 January 7, 2009
 
