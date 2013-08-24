@@ -4,8 +4,9 @@ title: "About"
 date: 2011-09-01 21:59
 ---
 
-I'm a Knowledge Junkie, Web Hacker, [Wu Disciple](http://en.wikipedia.org/wiki/Wu-Tang_Clan), Mad Scientist, Creator.   
-I lived in Japan for nearly 5 years so my Japanese is pretty decent too.   
+I enjoy building, learning, and experiencing new things. Mostly things on
+the web and things that make fun sounds.  
+I lived in Japan 5 years so my Japanese is pretty decent too.  
 
 Currently I'm doing front-end development at *Rackspace San Francisco*.
 
@@ -14,9 +15,10 @@ Currently I'm doing front-end development at *Rackspace San Francisco*.
 
 ##Hobbies + Interests
 
-Programming, Technology, Science, Electronics, Software, Entrepreneurship, Cheesy Horror Movies,
-Video Editing, Audio Synthesis, Electronic Music Composition, Arduino, Photography, 
-Cycling, Running, Body Building, Scuba Diving, Snowboarding, Travel
+Programming, Technology, Science, Electronics, Entrepreneurship,
+Cheesy Horror Movies, Audio Synthesis, Electronic Music Poduction,
+Hacking Arduinos, Photography, Cycling, Running, Ping Pong, Scuba Diving,
+Snowboarding, Travel
 
 * * *
 

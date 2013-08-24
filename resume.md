@@ -11,23 +11,24 @@ date: 2011-09-01 23:17
 
 
 
-
-- JavaScript expert focusing on large-scale web apps and data visualization
-- Also 10+ years of full-stack web development experience
-- Passionate about: programming, open source, new technology, architecture,
-  APIs, NoSQL, UX, optimization, and scalability
+- Deep knowledge of JavaScript and exposure to most popular JavaScript
+  frameworks/libraries
+- Focusing mostly on large-scale "single page" front-end web apps
+  and data visualization
+- 10+ years of full-stack web development experience
+- Passionate about: UX, JavaScript, API design, open source,
+  new browser technology, architecture, optimization, and scalability
 - Experience solving multi-lingual software challenges
 - Business level Japanese ability
-- Strong record of success
+- Experience in the cloud computing space
 
 **Looking for a position where:**
 
-- It's not *just a job*
-- There is an idea-embracing environment
+- I can continue to build useful cutting-edge web-based products
+- I can personally influence the product and company
 - The open source philosophy is supported
-- I can continue to build amazing innovative web apps
-- I can work with smart talented people
-- People are passionate and take pride in their code
+- I can work with smart passionate people who take pride in their code and
+  product
 
 
 
@@ -51,13 +52,28 @@ control panel application for one of the biggest players in cloud hosting.
 [www.rackspace.com](http://www.rackspace.com)
 
 **Technologies**:
-JavaScript d3.js HTML5 SVG Canvas Less CSS REST-APIs Google-Closure Node.js
-Python Git Github Linux
+JavaScript AngularJS d3.js HTML5 SVG LESS SASS CSS REST-APIs Google-Closure
+Node.js Git Github Linux
 
 - Major contributor to the new
-  [Rackspace Cloud Control Panel](https://mycloud.rackspace.com)
-- Created graphs, charts, and data visualizationis with cloud monitoring data
-
+  [Rackspace Cloud Control Panel](https://mycloud.rackspace.com), the primary
+  customer facing web application.
+- Created graphs, charts, and data visualizations with cloud monitoring data
+- Core contributor to the open source graphing library
+  [glimpse.js](https://github.com/racker/glimpse.js)
+- Conceptualized and created many user interactions patterns
+- Collaborated closely with designers to build beautiful user interfaces
+- Assumed responsibilities of team technical lead for one year in the absence of
+  a development manager
+- Automated complex build/deploy process using grunt.js, node, bower,
+  and Jenkins
+- Built a server-side reverse proxy, authentication module, and SSO module using
+  Node.js and Rackspace APIs
+- Practiced CI/CD
+- Quickly onboarded new engineers and interns
+- Currently building dashboard app using AngularJS, Node.js, SASS, d3.js,
+  and glimpse.js
+- Use Jasmine and Karma for TDD
 
 
 
@@ -71,7 +87,7 @@ Python Git Github Linux
 *Wall Street Associates (Tokyo, Japan)*  
 
 Senior member of a 4 person agile development team building and maintaining a
-multi-lingual next-generation recruitment CRM SaaS product
+multi-lingual recruitment CRM SaaS product
 
 **Technologies**:
 JavaScript CSS HTML5 C# .NET WCF Sql-Server MongoDB Solr ExtJS Hudson/Jenkins
@@ -83,16 +99,14 @@ Git Github
 - Improved code coverage by 20% by using Test Driven Development
 - Setup and maintained Hudson/Jenkins of Continuous Integration server
 - Led project to overhaul large portion of application with a 5x faster
-  more scalable database implementation. Migrated 8+ million
-  rows of data, drastically improved usability, resulted in unprecedented
+  more scalable database implementation. Migrated millions
+  of rows of data, drastically improved usability, resulted in unprecedented
   perforamnce and praise from users
 - Contributed to open source MongoDB C# driver
 - Optimized application performance decreasing response times up to 80% by:
-  discovering bottlenecks in session store, applying database indexes,
+  discovering bottlenecks in session store, optimizing database queries,
   converting images into Data URIs
-- Improved complex search algorithms and optimized databases - resulted in 2x
-  faster respons times and improved accuracy
-- Administration of various servers (database, web, cache, Solr)
+- Helped administrater various servers (database, web, cache, Solr)
 - Provided guidance and mentorship to junior developer
 - Introduced and led bi-weekly architecture meeting - resulted in constructive
   discussions and numerous product enhancements
@@ -106,7 +120,7 @@ Git Github
 
 
 
-#### Web Developer / Business Analyst (contract)
+#### Web Developer / Project Manager (contract)
 *Apr 2009 - Mar 2010*  
 *Nikko Asset Management  (Tokyo, Japan)*  
 
@@ -119,7 +133,7 @@ JavaScript Mootools HTML CSS Apache MySQL Linux PHP Joomla .NET C#
 SQL-Server Apache-Bench JMeter
 
 - Managed project to migrate 3,000+ static pages into CMS - Managed another web
-  developer and instructed 6 member marketing team and vendors on content
+  developer. Advised 6 member marketing team and vendors on content
   migration
 - Led two person team to customize Joomla CMS by developing new features and
   custom themes
@@ -128,8 +142,8 @@ SQL-Server Apache-Bench JMeter
   web services for importing financial data, automated backups
 - Performance benchmarked and optimized sites for high-traffic
   (40k-50k page views/day) - Resulted in 50% avg faster response times
-- Developed JSON REST APIs and client reference implementations for
-  promotional web site investing game - Resulted in ease of extensibility by
+- Developed JSON REST APIs and reference implementations for
+  promotional website - Resulted in ease of extensibility by
   3rd party developers
 - Communicated primarily in Japanese as most stakeholders were native Japanese
 
@@ -202,24 +216,25 @@ JavaScript AJAX SQL ASP.NET c# SQL-Server
 *National Cable Communications (New York, NY)*
 
 Led 4-person eBusiness development team in building mission-critical B2B web
-applications for a 450+ person, $1 billion revenue, cable advertising company.
+applications for a $1 billion revenue cable advertising company.
 
 **Technologies**:
-Java Struts-MVC C# JavaScript SQL SQL-Server SOA Web-Services IIS XML ASP.Net
+Java Struts C# JavaScript SQL SQL-Server SOA Web-Services IIS XML ASP.Net
 
 - Worked with Microsoft Consulting and led project to migrate legacy application
   infrastructure to SOA architecture - Resulted in a homogeneous,
   interconnected, flexible architecture of all internal applications
 - Oversaw development of internal ASP.NET and J2EE web application development
   (Order Management, Invoicing, CRM)
-- Oversaw outsource development and integrated those modules into core
+- Oversaw outsourced development and integrated those modules into core
   applications
 - Analyzed business processes with upper management to improve efficiency
-  through software solutions. Resulted in countless time savings, removal of
-  human error, and drastically improved invoicing and sales forecasting accuracy
+  through software solutions. Resulted in countless savings of employees time
+  and elimination of human error, while drastically improving invoicing and
+  sales forecasting accuracy
 - Co-authored XML file format which later became cable advertising industry
   standard for electronic order/invoice communications
-- Administered web servers and application servers
+- Helped administer web servers and application servers
 - Designed relational databases schemas and stored procedures
 - As company representative was member of [American Association of Advertising
   Agencies](http://www.aaaa.org) committee to define industry standards for

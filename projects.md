@@ -16,20 +16,35 @@ My projects and some things that I've contributed to.
 
 
 #### Pith
-A lightweight project template for structured scalable single-page web apps.   
+A lightweight Backbone.js project template for structured scalable single-page
+web apps.  
 [Source Code](https://github.com/sym3tri/pith)
-
 
 
 
 #### CSS Inject
 
-A simple light-weight Google Chrome extension for injecting custom CSS files
-into any website.  
+A simple Google Chrome extension for injecting custom CSS files into any
+website.  
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/fmiohbdblcemacakpnoinjmcelddpjbg)   
+[Chrome Web Store](https://chrome.google.com/webstore/detail/fmiohbdblcemacakpnoinjmcelddpjbg)  
 [Source Code](https://github.com/sym3tri/CSS-Inject)
 
+
+
+
+#### Kanji Hub
+A Japanese Kanji lookup tool built using Go, Google App Engine, and Backbone.js.
+Built in collaboration with [Shawn Smith](http://shawnps.net).  
+[Visit Kanjihub](http://kanjihub.appspot.com/)  
+[Source Code](https://github.com/sym3tri/kanjihub)
+
+
+
+
+#### Tumblr HTML5 Boilerplate
+HTML5 Boilerplate adapted for Tumblr themes  
+[Source Code](https://github.com/sym3tri/Tumblr-HTML5-Boilerplate)
 
 
 
@@ -51,4 +66,8 @@ A simple easy fast boilerplate Jekyll blog based on Twitter Bootstrap.
 
 *Proud contributor to the following open source projects*
 
-[MongoDB C# Driver](https://github.com/mongodb/mongo-csharp-driver)
+[glimpse.js](github.com/racker/glimpse.js) - A highly customizable graphing
+library with d3.js at its core.
+
+[MongoDB C# Driver](https://github.com/mongodb/mongo-csharp-driver) - The C#
+driver for MongoDB.
