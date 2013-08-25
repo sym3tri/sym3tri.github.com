@@ -3,6 +3,6 @@
   <h4>{{ post.title }}</h4>
   <em>{{ post.date | date_to_string }}</em>
   <div class="excerpt">{{ post.excerpt | truncate: 120 "..." }}</div>
-  <a href="{{ site.baseurl }}{{ post.url }}" class="expanding"></a>
+  <a href="{{ post.url }}" class="expanding"></a>
 </div>
 <!--/post-item-->
