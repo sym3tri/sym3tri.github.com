@@ -1,9 +1,9 @@
-baseurl:        http://www.edrooth.com
+#baseurl:        http://www.edrooth.com
 plugins:        _plugins
 markdown:       rdiscount
 pygments:       true
 permalink:      /blog/:year/:month/:day/:title
-title:          Ed Rooth
+title:          EdRooth.com
 description:    JavaScript & Web Development
 author:         Ed Rooth
 search_enabled: true

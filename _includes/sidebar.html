@@ -1,36 +1,39 @@
-<!--sidebar-->
-<aside class="author-about">
-  {% if site.gravatarhash %}
-  <img src="http://www.gravatar.com/avatar/{{ site.gravatarhash }}.jpg"/>
-  {% endif %}
-  <h4>{{ site.author }}</h4>
-  <div class="author-about-blub">
-    I'm a Web Devloper in San Francisco.
+<div class="row">
+  <div class="col-lg-12 sidebar-item author-about">
+    {% if site.gravatarhash %}
+    <img src="http://www.gravatar.com/avatar/{{ site.gravatarhash }}.jpg"/>
+    {% endif %}
+    <h4>{{ site.author }}</h4>
+    <div class="author-about">
+      I'm a Web Devloper in San Francisco.
+    </div>
   </div>
-</aside>
+</div>
+
 <hr>
 
-<!--<aside class="social">-->
-  <!--<ul class="nav nav-list">-->
-    <!--<li class="nav-header">Social</li>-->
-  <!--</ul>-->
-<!--</aside>-->
-<aside>
-  <h4><a href="/blog/">Blog Archives</a></h4>
-</aside>
+<div class="row">
+  <div class="col-lg-12 sidebar-item">
+    <h4><a href="/blog/">Blog Archives</a></h4>
+    <a href="/atom.xml" class="rss label label-warning">RSS FEED</a>
+  </div>
+</div>
+
 <hr>
 
-{% if site.search_enabled %}
-<aside>
-  <form class="form-search" method="GET" action="http://google.com/search">
-    <input type="hidden" name="q" value="site:{{ site.baseurl }}">
-    <input type="text" class="input-medium search-query" name="q" results="0" placeholder="Search...">
-  </form>
-</aside>
-<hr>
-{% endif %}
+<div class="row">
+  <div class="col-lg-12 sidebar-item">
+    <form class="form-search" method="GET" action="http://google.com/search">
+      <input type="hidden" name="q" value="site:{{ site.baseurl }}">
+      <input type="text" class="input-medium form-control" name="q" results="0" placeholder="Search...">
+    </form>
+  </div>
+</div>
 
-<aside class="tweets">
-  {% include tweets.html %}
-</aside>
-<!--/sidebar-->
+<hr>
+
+<div class="row">
+  <div class="col-lg-12 sidebar-item">
+    {% include tweets.html %}
+  </div>
+</div>

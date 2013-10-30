@@ -4,27 +4,19 @@ title: Home
 bodyclass: home
 ---
 
-<div class="hero-unit">
+<div class="jumbotron">
   <h2>{{ site.title }}</h2>
   <p>{{ site.description }}</p>
 </div>
 
-<div class="row-fluid post-list">
-  {% for post in site.posts limit:4 %}
+<div class="row post-list">
+  {% for post in site.posts limit:8 %}
     {% include post-item.html %}
   {% endfor %}
-</div><!--/row-fluid /post-list-->
+</div>
 
-<div class="row-fluid post-list">
-  {% for post in site.posts limit:4 offset:4 %}
-    {% include post-item.html %}
-  {% endfor %}
-</div><!--/row-fluid /post-list-->
-
-{% if site.posts.size > 8 %}
-<div class="row-fluid">
-  <div class="span12 more-posts">
-    <a href="blog/index.html">older posts &raquo;</a>
+<div class="row">
+  <div class="col-lg-12 more-posts">
+    <a href="blog/index.html" class="pull-right">Older Posts &raquo;</a>
   </div>
 </div>
-{% endif %}

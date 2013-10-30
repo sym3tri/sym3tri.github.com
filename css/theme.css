@@ -1,83 +1,65 @@
 body {
-  padding-top: 64px;
+  padding-top: 56px;
   padding-bottom: 40px;
 }
-@media (max-width: 979px) {
-  body {
-    padding-top: inherit;
-  }
-}
 
-.navbar {
-  border-top: 4px solid #5017aa;
-}
-
-.rss {
-  margin: 10px;
-}
-.rss,
-.rss:hover {
+a:active, a:hover {
   text-decoration: none;
 }
+a[href="#top"] {
+  display: inline-block;
+  margin: 3em 0;
+}
+a[href="#top"]:after {
+  content: ' \21E7';
+}
 
-.expanding {
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
+/* NAV */
+.navbar {
+  border-top: 4px solid #5017aa;
+  background-image: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+/* Index page */
+.home .jumbotron {
+  background-color: transparent;
+}
+
+.post-item .panel {
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+}
+.post-item .panel-heading {
+  background-image: none;
+  background-color: transparent;
+  border: none;
+}
+.post-item .panel-body {
+  height: 125px;
+  overflow: hidden;
+}
+.post-item .panel-footer {
+  background-color: transparent;
+}
+.post-item .panel-footer {
+  text-align: right;
+  border-top: none;
+}
+.post-item .date {
+  color: #aaa;
 }
 
 /* SIDEBAR */
-.sidebar {
-  border-left: 1px dotted #cecece;
-  padding-left: 1em;
-}
-.sidebar aside {
-  margin-bottom: 1.5em;
-}
-.sidebar .author-about-blub {
-  margin: 1em 0;
+.sidebar .author-about{
   font-style: italic;
 }
 
 /* MAIN */
 .main {
-}
-
-/* INDEX PAGE */
-.post-list {
-  paddig: 0;
-  margin: 0;
-}
-.post-item {
-  position: relative;
-  padding: 1em 1.5em;
-  overflow: hidden;
-  height: 12em;
-}
-.post-item:last-child {
-  margin-right: 0;
-}
-.post-item em {
-  display: block;
-  margin: 0 0 0.5em 1em;
-}
-.post-item .excerpt {
-}
-.post-item .expanding {
-  background-color: rgba(255, 255, 255, 0.3);
-}
-.post-item .expanding:hover {
-  background-color: transparent;
-}
-.more-posts {
-  text-align: right;
-}
-.home .hero-unit {
-  background: url(/img/bg.gif);
-  color: #fff;
+  min-height: 800px;
 }
 
 /* CONTACT PAGE */
@@ -100,14 +82,6 @@ body.contact .main {
 .post header {
   margin-bottom: 1em;
 }
-article footer {
+.page-footer, .post-footer {
   margin: 2em 0;
-}
-a[href="#top"] {
-  display: inline-block;
-  clear: both;
-  margin: 3em 0;
-}
-a[href="#top"]:after {
-  content: ' \21E7';
 }

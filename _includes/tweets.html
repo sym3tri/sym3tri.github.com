@@ -1,32 +1,6 @@
 {% if site.twittername %}
-<!--tweets-->
   <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-  <script>
-  new TWTR.Widget({
-    version: 2,
-    type: 'profile',
-    rpp: 10,
-    interval: 30000,
-    width: 'auto',
-    height: 300,
-    theme: {
-      shell: {
-        background: '#cccccc',
-        color: '#ffffff'
-      },
-      tweets: {
-        background: '#ffffff',
-        color: '#666666',
-        links: '#0088cc'
-      }
-    },
-    features: {
-      scrollbar: true,
-      loop: false,
-      live: false,
-      behavior: 'all'
-    }
-  }).render().setUser('{{ site.twittername }}').start();
+  <a class="twitter-timeline" href="https://twitter.com/{{ site.twittername }}" data-widget-id="395669339807838208">Tweets by @sym3tri</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </script>
-<!--/tweets-->
 {% endif %}

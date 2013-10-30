@@ -6,6 +6,7 @@ date: 2011-09-01 21:59
 
 I enjoy building, learning, and experiencing new things. Mostly things on
 the web and things that make fun sounds.  
+
 I lived in Japan 5 years so my Japanese is pretty decent too.  
 
 Currently I'm doing front-end development at *Rackspace San Francisco*.
@@ -43,5 +44,4 @@ Snowboarding, Travel
 * [MixCloud](http://www.mixcloud.com/sym3tri)
 * [SoundCloud](http://soundcloud.com/sym3tri)
 * [Discogs](http://www.discogs.com/user/sym3tri)
-* [Fitocracy](https://www.fitocracy.com/profile/sym3tri)
 * [Last FM](http://www.last.fm/user/sym3tri)
